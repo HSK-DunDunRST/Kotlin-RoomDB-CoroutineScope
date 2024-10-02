@@ -72,9 +72,6 @@ appDatabase = Room.databaseBuilder(
 - JDK 17 이상.
 - Android API 레벨 26 (Oreo) 이상.
 
-## 라이센스
-이 프로젝트는 MIT 라이센스 하에 배포됩니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참조하십시오.
 
 ---
 
-필요에 따라 내용을 수정하시면 됩니다!
